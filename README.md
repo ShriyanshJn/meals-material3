@@ -4,7 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is an updated version of the basic meals app.
+Former meals app uses Provider for managing state.
+This app uses Riverpod to manage state.
+Also added animations and dark mode features in this updated application.
 
 A few resources to get you started if this is your first Flutter project:
 
